@@ -3,8 +3,8 @@ class HerdrElectrified < Formula
 
   desc "Reversible appearance settings and patched renderers for Herdr"
   homepage "https://github.com/rm0nroe/herdr-electric"
-  url "https://github.com/rm0nroe/herdr-electric/archive/refs/tags/v1.10.0.tar.gz"
-  sha256 "0f39679fefa319f1133404c196fed78efd27eb88cb7df1e06ce444ee1782b20c"
+  url "https://github.com/rm0nroe/herdr-electric/archive/refs/tags/v1.10.1.tar.gz"
+  sha256 "8a55d0b216486acf274f27c6960ff5585c7e851e774b9153bc47f89dc804e88e"
   license all_of: ["Apache-2.0", "MIT"]
 
   depends_on arch: :arm64
