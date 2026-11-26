@@ -10,3 +10,10 @@ herdr-electrified install
 
 After a formula update, run `herdr-electrified upgrade` to reapply your saved settings.
 To restore your settings before uninstalling, run `herdr-electrified undo`.
+
+Install Delegait CLI:
+
+```sh
+brew install rm0nroe/tap/delegait
+delegait start --check
+```
