@@ -2,8 +2,8 @@
 class Delegait < Formula
   desc "Zero-Standing-Privilege Execution Vault & Hardware-Signed Policy CLI"
   homepage "https://delegait.app"
-  url "https://registry.npmjs.org/delegait/-/delegait-5.5.0.tgz"
-  sha256 "cc2548b03f305e2d7acc65e78953051cb1d161e365f2497daaa1d1e2e447d214"
+  url "https://registry.npmjs.org/delegait/-/delegait-5.5.1.tgz"
+  sha256 "f27004e31a22cd3c2fba97e61b1011681234a6c27843cebc98035c9aa07f2852"
   license "MIT"
 
   depends_on "node@22"
